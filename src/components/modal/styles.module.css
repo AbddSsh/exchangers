@@ -25,7 +25,7 @@
 }
 .modal__options {
   max-height: 80vh;
-  overflow-y: auto;
+  overflow-y: scroll;
 }
 .modal__empty {
   display: flex;
